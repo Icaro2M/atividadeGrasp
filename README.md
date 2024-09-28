@@ -1,1 +1,2 @@
-![Untitled(6)](https://github.com/user-attachments/assets/1b9b5cf1-9d96-48b4-83ac-c388b526e767)
+
+![diagramaclasse](https://github.com/user-attachments/assets/f30c20d5-32ec-47bb-b000-f83cf9c322f7)
