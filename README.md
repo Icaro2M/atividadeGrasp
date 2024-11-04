@@ -1,2 +1,3 @@
 
-![diagramaclasse](https://github.com/user-attachments/assets/f30c20d5-32ec-47bb-b000-f83cf9c322f7)
+
+![diagrama4](https://github.com/user-attachments/assets/1fe27e3c-e5f9-45bc-8649-7dbdbee10dfe)
